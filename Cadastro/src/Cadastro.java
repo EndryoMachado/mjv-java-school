@@ -4,21 +4,13 @@ public class Cadastro {
     private String nome;
     private String cpf;
     private Date dataNascimento;
-    
     private SexoEnum sexo;
-    
     private String logradouro;
-    
     private String numero;
-    
     private String bairro;
-    
     private String complemento;
-    
     private String cidade;
-    
     private String estado;
-    
     private String email;
     private Long telefone;
     private Long celular;
